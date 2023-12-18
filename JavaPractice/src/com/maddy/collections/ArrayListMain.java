@@ -8,6 +8,8 @@ public class ArrayListMain {
         CustomArrayList ca = new CustomArrayList(5);
 		ca.add(10);
 		ca.add(20);
+		
+		System.out.println("Programm End");
 	}
 
 }
